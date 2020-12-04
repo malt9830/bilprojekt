@@ -2,8 +2,19 @@ body {
     background-color: #c6c6c6;
 }
 
-h1 {}
+h1 {
+    font-size: 10rem;
+    font-family: 'East Sea Dokdo', cursive;
+    color: saddlebrown;
+}
 
 h2 {}
 
 p {}
+
+a {
+    font-family: cursive;
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin: 1rem;
+}
